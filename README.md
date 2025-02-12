@@ -1,2 +1,1 @@
-# youtubeclone
-# youtubeclone
+A YouTube clone built with HTML and CSS features a responsive video grid layout, a sidebar for navigation, and a sleek video player interface. The homepage showcases video thumbnails, titles, and channel details, mimicking YouTube’s design. The header includes a search bar and profile icons for a realistic UI.
